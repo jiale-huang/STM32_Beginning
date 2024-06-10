@@ -56,8 +56,6 @@ void MySPI_Stop()
 // mode 0
 uint8_t MySPI_SwapByte(uint8_t byteSend)
 {
-    MySPI_Start();
-    MySPI_SLK_WriteBit(0);
     uint8_t byteReceive = 0x00;
     for (uint8_t i = 0; i < 8; i++)
     {
