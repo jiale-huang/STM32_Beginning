@@ -3,14 +3,14 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\Dev\\STM32_Beginning\\SPI_Software\\Start",
-                "d:\\Dev\\STM32_Beginning\\SPI_Software\\User",
-                "d:\\Dev\\STM32_Beginning\\SPI_Software\\Library",
-                "d:\\Dev\\STM32_Beginning\\SPI_Software",
+                "d:\\Dev\\STM32_Beginning\\I2C_Hardware\\Start",
+                "d:\\Dev\\STM32_Beginning\\I2C_Hardware\\User",
+                "d:\\Dev\\STM32_Beginning\\I2C_Hardware\\Library",
+                "d:\\Dev\\STM32_Beginning\\I2C_Hardware",
                 "D:\\Program Files\\Keil_v5\\ARM\\ARMCC\\include",
                 "D:\\Program Files\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\Dev\\STM32_Beginning\\SPI_Software\\Utilities",
-                "d:\\Dev\\STM32_Beginning\\SPI_Software\\Drivers"
+                "d:\\Dev\\STM32_Beginning\\I2C_Hardware\\Utilities",
+                "d:\\Dev\\STM32_Beginning\\I2C_Hardware\\Drivers"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",
